@@ -2,3 +2,4 @@
 void main(){
 	char a[]="saiteja";
 }
+n
